@@ -1,3 +1,5 @@
 Data una lista della spesa, stampare sulla pagina (anche brutalmente, basta che si vedano) gli elementi della lista individualmente con un ciclo while.
 
 SOLUZIONE:
+1- creo un array con la lista della spesa 
+2- creo un ciclo while che stampi sulla pagina gli elementi uno ad uno della lista
