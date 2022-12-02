@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    background-color: bisque;
+    width: 40%;
+    margin: 100px auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    color: rgb(14, 52, 156);
+    border: 5px dashed rgb(49, 208, 219);
+}
+
+h1{
+    margin: 20px 0 0;
+}
+
+ul{
+    width: 50%;
+    text-align: center;
+    margin: 40px auto;
+}
+
+.elemento-lista{
+    font-size: 25px;
+    padding: 20px;
+    border-bottom: 2px dashed rgb(21, 121, 204);
+}
