@@ -19,6 +19,7 @@ body{
     flex-direction: column;
     color: rgb(14, 52, 156);
     border: 5px dashed rgb(49, 208, 219);
+    border-radius: 20px;
 }
 
 h1{
